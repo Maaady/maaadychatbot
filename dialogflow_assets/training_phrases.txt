@@ -1,4 +1,4 @@
-# Author: mrityunjay Kumar Dwivedi
+# Author: Mrityunjay Kumar Dwivedi
 
 Default Welcome Intent
 ======================
