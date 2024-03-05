@@ -1,4 +1,4 @@
-# Author: Dhaval Patel. Codebasics YouTube Channel
+# Author: Mrityunjay Kumar Dwivedi
 
 from fastapi import FastAPI
 from fastapi import Request
